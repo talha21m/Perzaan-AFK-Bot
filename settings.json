@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "A.A.B",
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "DEAD-HADE-SMP.aternos.me",
+    "port": 49808,
     "version": "1.21.1"
   },
   "position": {
@@ -31,7 +31,7 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
+        "Subscribe to ALPHA!",
         "I like to play Minecraft!"
       ]
     },
